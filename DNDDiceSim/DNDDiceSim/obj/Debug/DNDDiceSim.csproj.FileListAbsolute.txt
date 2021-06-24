@@ -1,0 +1,10 @@
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\bin\Debug\DNDDiceSim.exe.config
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\bin\Debug\DNDDiceSim.exe
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\bin\Debug\DNDDiceSim.pdb
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\obj\Debug\DNDDiceSim.csprojAssemblyReference.cache
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\obj\Debug\DNDDiceSim.Form1.resources
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\obj\Debug\DNDDiceSim.Properties.Resources.resources
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\obj\Debug\DNDDiceSim.csproj.GenerateResource.cache
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\obj\Debug\DNDDiceSim.csproj.CoreCompileInputs.cache
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\obj\Debug\DNDDiceSim.exe
+C:\Users\rhyus\source\repos\DNDDiceSim\DNDDiceSim\obj\Debug\DNDDiceSim.pdb
